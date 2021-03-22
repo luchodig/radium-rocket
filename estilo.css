@@ -1,0 +1,21 @@
+.center {
+  margin: auto;
+  width: 60%;
+  border: 0px,
+  padding: 10px;
+}
+.p1 {
+  font-family: "Times new roman", Times, serif;
+}
+.p2 {
+	padding-bottom: 100px
+}
+
+#chart {
+	width: 797px; 
+    height:657px;
+}
+#fotocss {
+	width: 1394px
+	height: 4306.880px;
+}
